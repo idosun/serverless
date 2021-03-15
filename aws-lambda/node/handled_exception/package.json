@@ -10,9 +10,9 @@
   "author": "Sentry",
   "license": "MIT",
   "dependencies": {
-    "@sentry/node": "^5.15.5",
+    "@sentry/serverless": "^5.27.4",
     "lru-cache": "^5.1.1",
-    "tslib": "^1.11.2",
-    "lru-map": "^1.6.1"
+    "lru-map": "^1.6.1",
+    "tslib": "^1.11.2"
   }
 }
